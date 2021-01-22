@@ -1,0 +1,29 @@
+ul{   
+    background-color: rgb(172, 206, 207);
+    max-width: 20em;
+    border-width: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    
+}
+
+body{
+    background-color: rgb(218, 199, 180);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+main{
+    background-color: rgb(244, 245, 245);
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+
+    font-family: Arial;
+    border-radius: 10px;
+
+}
